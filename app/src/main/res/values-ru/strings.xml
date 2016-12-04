@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Магазин</string>
+    <string name="title_item_detail">Товар</string>
+    <string name="title">Название</string>
+    <string name="price">Цена</string>
+    <string name="qty">Количество</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_product">Удалить товар ?</string>
+</resources>

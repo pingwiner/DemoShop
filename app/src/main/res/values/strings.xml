@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="title_item_detail">Product</string>
+    <string name="title">Title</string>
+    <string name="price">Price</string>
+    <string name="qty">Quantity</string>
+    <string name="delete">Delete</string>
+    <string name="delete_product">Delete product ?</string>
+</resources>
