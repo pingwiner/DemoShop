@@ -1,18 +1,14 @@
 package com.example.nightrain.shop;
 
-import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
 import com.example.nightrain.shop.model.ListItem;
-
 import java.util.List;
 
 public class ProductsAdapter extends RecyclerView.Adapter<ProductViewHolder> {
     List<ListItem> mData;
-    long selectedItem = 0;
 
     @Override
     public ProductViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
